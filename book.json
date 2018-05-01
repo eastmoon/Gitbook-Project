@@ -1,0 +1,8 @@
+{
+    "plugins": ["mermaid-gb3", "new-flowchart"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "遊戲橘子互動裝置"
+        }
+    }
+}
